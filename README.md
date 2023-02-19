@@ -12,8 +12,8 @@ A user-friendly blockchain dapp donation page that boasts an intuitive UI, a sui
 To get started with forking the project, follow the steps below:
 
 ## 1. Clone the repo : 
-```git clone https://github.com/RexanWONG/donation-page-dapp.git```
-```cd USER-FRIENDLY-BLOCKCHAIN-DAPP-DONATION-PAGE```
+- ```git clone https://github.com/RexanWONG/donation-page-dapp.git```
+- ```cd USER-FRIENDLY-BLOCKCHAIN-DAPP-DONATION-PAGE```
 
 
 
