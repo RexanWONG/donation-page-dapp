@@ -7,7 +7,7 @@ A user-friendly blockchain dapp donation page that boasts an intuitive UI, a sui
 * npm
 * Metamask
 * An Alchemy API key (https://www.alchemy.com/)
-* Some Goerli ETH in your wallet (for tinkering with the project :))
+* Some Goerli ETH in your wallet (for tinkering with the project :)) (https://goerlifaucet.com/)
 
 # Getting started 
 To get started with forking the project, follow the steps below:
