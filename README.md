@@ -6,7 +6,7 @@ A user-friendly blockchain dapp donation page that boasts an intuitive UI, a sui
 * Node.js
 * npm
 * Metamask
-* Some Goerli ETH in your wallet
+* Some Goerli ETH in your wallet (for tinkering with the project :))
 
 # Getting started 
 To get started with forking the project, follow the steps below:
