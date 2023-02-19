@@ -6,6 +6,7 @@ A user-friendly blockchain dapp donation page that boasts an intuitive UI, a sui
 * Node.js
 * npm
 * Metamask
+* An Alchemy API key (https://www.alchemy.com/)
 * Some Goerli ETH in your wallet (for tinkering with the project :))
 
 # Getting started 
