@@ -25,6 +25,7 @@ Navigate to ```donation-page-dapp/blockchain```
 Then create a .env file at the root of the project directory and fill it with the following information:
 - ```URL='YOUR_ALCHEMY_API_KEY'```
 - ```PRIVATE_KEY='YOUR_PRIVATE_KEY'```
+
 Replace 'YOUR_ALCHEMY_API_KEY' with your Alchemy API key, and <YOUR_PRIVATE_KEY> with your private key of your ethereum wallet address.
 
 ## 4. Start the frontend and the backend
